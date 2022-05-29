@@ -25,7 +25,9 @@ func main() {
 	isGood := true
 	for i := 0; i < len(input); i++ {
 		if input[i] == '(' {
-			isGood = false
+			if i < len(input)-9 && input[i+1:i+9] == "https://" {
+				isGood = false
+			}
 		}
 		if isGood {
 			res = append(res, string(input[i]))
