@@ -2,7 +2,7 @@ How to Build an OpenSea-like NFT Marketplace?
 2muchcoffee20  May 2021
 
 
-Ð¢oday, such popular NFT marketplace platforms as Rarible , OpenSea  and NBA Top Shots  significantly encourage NFT development. The research published on NonFungible.com (http://nonfungible.com/) says that the total value of NFT transactions in 2020 increased by 299%  compared to 2019 and exceeded $250 million. Experts predict that non-fungible tokens will be the driving force behind the virtual economy in the coming 10 years.
+Ð¢oday, such popular NFT marketplace platforms as Rarible , OpenSea  and NBA Top Shots  significantly encourage NFT development. The research published on NonFungible.com  says that the total value of NFT transactions in 2020 increased by 299%  compared to 2019 and exceeded $250 million. Experts predict that non-fungible tokens will be the driving force behind the virtual economy in the coming 10 years.
 In case you know little about what is an NFT, here is the most common FAQ about NFT  or you can check out 50+ materials about NFT .
 The NFT marketplace is expected to grow tremendously, and developing an NFT marketplace is a great opportunity. This article aims to analyze how to build an NFT marketplace on the example of OpenSea. We are going to cover where to start with NFT marketplace development, what features to include, and what to look for when building such a marketplace.
 We recently made a design for the NFT marketplace -- Cosmo, which lets everyone create and sell crypto-collectibles. You might want to check out the full case on our Behance .

@@ -25,7 +25,7 @@ func main() {
 	isGood := true
 	for i := 0; i < len(input); i++ {
 		if input[i] == '(' {
-			if i < len(input)-9 && (input[i+1:i+9] == "https://" || input[i+1:i+9] == "http://") {
+			if i < len(input)-9 && (input[i+1:i+9] == "https://" || input[i+1:i+8] == "http://") {
 				isGood = false
 			}
 		}
